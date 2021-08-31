@@ -1,3 +1,8 @@
+## How to test the complete example
+
+Just open the [index.html](app/index.html)
+
+
 # Push Notifications codelab
 
 Code for the Web Fundamentals [Push Notifications codelab](https://codelabs.developers.google.com/codelabs/push-notifications/).
@@ -17,6 +22,7 @@ You'll also learn the basics of Service Workers.
 * Notification click handling
 
 Example code for each step of the codelab is available from the [completed](completed/) directory.
+
 
 ## License
 
